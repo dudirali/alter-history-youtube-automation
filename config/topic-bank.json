@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "titanic-never-sinks",
+    "title": "What if the Titanic never sank?",
+    "premise": "The lookout spots the iceberg 30 seconds earlier, ship survives, ocean liner era extends, air travel delayed by decades.",
+    "category": "disaster",
+    "era": "1910s",
+    "visual_tone": "cinematic 1912 nautical, blue moonlight, vintage period accurate"
+  },
+  {
+    "id": "apollo-11-fails",
+    "title": "What if Apollo 11 crashed on the Moon?",
+    "premise": "The lander malfunctions, Armstrong and Aldrin die, Nixon reads the pre-written tragic speech, Soviets win the space race, Cold War turns colder.",
+    "category": "technology",
+    "era": "1960s",
+    "visual_tone": "1969 NASA control room, lunar surface, red Cold War aesthetic, archival film grain"
+  },
+  {
+    "id": "black-death-today",
+    "title": "What if the Black Death struck today?",
+    "premise": "Modern world hit with 14th-century plague mortality, cities empty, AI replaces workers overnight, borders close, digital extreme.",
+    "category": "plague",
+    "era": "modern",
+    "visual_tone": "empty modern megacities, drone shots, dystopian neon, eerie silence"
+  },
+  {
+    "id": "rome-never-falls",
+    "title": "What if the Roman Empire never fell?",
+    "premise": "Rome's decline is reversed by Constantine's successors, Latin becomes universal, futurist-imperial cities, no Middle Ages.",
+    "category": "empire",
+    "era": "ancient",
+    "visual_tone": "cyberpunk-Roman fusion, marble + neon, golden eagles over modern skylines"
+  },
+  {
+    "id": "cold-war-goes-hot-1983",
+    "title": "What if the Cold War went nuclear in 1983?",
+    "premise": "Stanislav Petrov reports the false alarm as real, limited nuclear exchange, world frozen in 80s, no internet, militaristic culture.",
+    "category": "war",
+    "era": "1980s",
+    "visual_tone": "Soviet/American war room red lights, mushroom clouds, post-apocalyptic 80s aesthetic"
+  },
+  {
+    "id": "ww1-never-starts",
+    "title": "What if Franz Ferdinand survived 1914?",
+    "premise": "Assassin's bullet misses, WW1 never starts, Habsburg empire reforms, no Hitler, no WW2, no atomic bomb.",
+    "category": "war",
+    "era": "1910s",
+    "visual_tone": "Belle Époque Vienna, golden carriages, vintage European elegance"
+  },
+  {
+    "id": "library-of-alexandria-survives",
+    "title": "What if the Library of Alexandria survived?",
+    "premise": "The greatest knowledge repository never burns, Renaissance comes 1,000 years early, ancient secrets propel humanity.",
+    "category": "discovery",
+    "era": "ancient",
+    "visual_tone": "vast marble scrolls, golden Egyptian light, ancient + futuristic blend"
+  },
+  {
+    "id": "wright-brothers-fail",
+    "title": "What if the Wright brothers never flew?",
+    "premise": "Kitty Hawk fails, manned flight delayed by 50 years, no air force in WW2, ocean liners + zeppelins dominate.",
+    "category": "technology",
+    "era": "1900s",
+    "visual_tone": "skies full of zeppelins, art deco airships, sepia-toned dieselpunk"
+  },
+  {
+    "id": "alexander-lives-longer",
+    "title": "What if Alexander the Great lived to old age?",
+    "premise": "Alexander doesn't die at 32, his empire consolidates, Greek culture conquers India and China, world becomes Hellenistic.",
+    "category": "leader",
+    "era": "ancient",
+    "visual_tone": "Bronze armor under exotic eastern temples, Greek statues in Indian palaces"
+  },
+  {
+    "id": "internet-invented-1950",
+    "title": "What if the internet was invented in 1950?",
+    "premise": "ARPANET arrives two decades early, post-war boom fuses with digital revolution, Cold War fought on networks, no Hippie 60s.",
+    "category": "technology",
+    "era": "1950s",
+    "visual_tone": "atompunk 1950s with retro-futurist screens, chrome + neon"
+  },
+  {
+    "id": "hitler-art-school-accepted",
+    "title": "What if Hitler got into art school?",
+    "premise": "Vienna Academy accepts him in 1907, he becomes a mediocre painter, no Nazi party, Europe spared.",
+    "category": "leader",
+    "era": "1900s",
+    "visual_tone": "early 1900s Vienna art salons, soft impressionist palette"
+  },
+  {
+    "id": "jfk-survives-dallas",
+    "title": "What if JFK survived Dallas?",
+    "premise": "Bullet misses, Kennedy serves second term, Vietnam de-escalates, MLK survives, civil rights era transformed.",
+    "category": "leader",
+    "era": "1960s",
+    "visual_tone": "1960s American optimism, Kodachrome saturated colors, Camelot aesthetic"
+  },
+  {
+    "id": "lincoln-survives-ford",
+    "title": "What if Lincoln wasn't shot at Ford's Theatre?",
+    "premise": "Booth misses, Lincoln finishes Reconstruction, racial reconciliation happens decades earlier, no Jim Crow era.",
+    "category": "leader",
+    "era": "1860s",
+    "visual_tone": "Civil War era American grandeur, sepia portraits, candlelit halls"
+  },
+  {
+    "id": "library-of-babel-found",
+    "title": "What if ancient Sumerian tablets predicted the future?",
+    "premise": "Archaeologists discover tablets describing modern events in eerie detail, civilization questions destiny.",
+    "category": "discovery",
+    "era": "ancient",
+    "visual_tone": "candlelit clay tablets, archaeological dig site, mystery hieroglyphs"
+  },
+  {
+    "id": "spanish-flu-no-end",
+    "title": "What if the Spanish Flu never ended?",
+    "premise": "1918 pandemic mutates and persists, masks become permanent, society reorganizes around perpetual quarantine.",
+    "category": "plague",
+    "era": "1920s",
+    "visual_tone": "1920s in masks, jazz clubs distanced, eerie elegance"
+  },
+  {
+    "id": "atlantis-real",
+    "title": "What if Atlantis was real and survived?",
+    "premise": "The lost city is found intact deep underwater, its technology rewrites history, ocean cities rise.",
+    "category": "discovery",
+    "era": "ancient",
+    "visual_tone": "deep ocean floor crystal city, blue-green light, alien-ancient fusion"
+  },
+  {
+    "id": "mongols-conquer-europe",
+    "title": "What if the Mongols conquered all of Europe?",
+    "premise": "Ögedei Khan doesn't die in 1241, the horde sweeps to Lisbon, Europe becomes Mongol, no Renaissance.",
+    "category": "empire",
+    "era": "medieval",
+    "visual_tone": "Mongol cavalry over European cathedrals, fur and steel, snowy battlefields"
+  },
+  {
+    "id": "tesla-beats-edison",
+    "title": "What if Tesla won the War of Currents?",
+    "premise": "AC dominates earlier, wireless power becomes real, Tesla's wildest inventions reach the public, energy is free.",
+    "category": "technology",
+    "era": "1900s",
+    "visual_tone": "art nouveau labs, glowing wireless coils, Edison-era industrial chic"
+  },
+  {
+    "id": "constantinople-never-falls",
+    "title": "What if Constantinople never fell in 1453?",
+    "premise": "Byzantine Empire survives, Greek Orthodox world dominates Mediterranean, Ottomans pushed back, no fall of the East.",
+    "category": "empire",
+    "era": "medieval",
+    "visual_tone": "Hagia Sophia golden, Byzantine icons, eastern Mediterranean light"
+  },
+  {
+    "id": "columbus-doesnt-sail",
+    "title": "What if Columbus never sailed in 1492?",
+    "premise": "Spain refuses funding, the Americas discovered 200 years later by Asia, Native empires industrialize.",
+    "category": "discovery",
+    "era": "renaissance",
+    "visual_tone": "Aztec/Inca cities with advanced architecture, jaguar imagery, gold and obsidian"
+  },
+  {
+    "id": "chernobyl-never-happens",
+    "title": "What if Chernobyl never melted down?",
+    "premise": "The safety test goes correctly, Soviet nuclear program thrives, USSR survives longer, alternative 1990s.",
+    "category": "disaster",
+    "era": "1980s",
+    "visual_tone": "Soviet brutalist architecture, optimistic atomic-age propaganda"
+  },
+  {
+    "id": "hindenburg-doesnt-burn",
+    "title": "What if the Hindenburg landed safely?",
+    "premise": "1937 zeppelin disaster averted, commercial airships dominate intercontinental travel, sky becomes a different highway.",
+    "category": "disaster",
+    "era": "1930s",
+    "visual_tone": "art deco zeppelins over skylines, brass and chrome dieselpunk"
+  },
+  {
+    "id": "9-11-prevented",
+    "title": "What if 9/11 was prevented?",
+    "premise": "Intelligence agencies stop the plot in late August 2001, no Iraq War, no Afghanistan, 21st century unrecognizable.",
+    "category": "disaster",
+    "era": "modern",
+    "visual_tone": "early 2000s NYC bright morning, Twin Towers intact, optimistic millennium aesthetic"
+  },
+  {
+    "id": "napoleon-wins-waterloo",
+    "title": "What if Napoleon won at Waterloo?",
+    "premise": "Wellington loses, French empire revives, Europe becomes a Napoleonic federation, English language fades.",
+    "category": "war",
+    "era": "1800s",
+    "visual_tone": "Napoleonic battlefield smoke, gold and blue uniforms, French imperial pageantry"
+  },
+  {
+    "id": "samurai-still-rule",
+    "title": "What if Japan never opened to the West?",
+    "premise": "Commodore Perry is turned away, Tokugawa shogunate persists, Japan stays feudal-isolated through the 20th century.",
+    "category": "empire",
+    "era": "1850s",
+    "visual_tone": "samurai aesthetic in modern Tokyo, traditional + advanced, cherry blossoms"
+  },
+  {
+    "id": "concorde-never-grounded",
+    "title": "What if the Concorde never crashed?",
+    "premise": "2000 Paris crash averted, supersonic commercial flight thrives, Mach 2 travel becomes mainstream, 2-hour transatlantic.",
+    "category": "technology",
+    "era": "2000s",
+    "visual_tone": "sleek supersonic planes, futurist airports, white and silver Concorde elegance"
+  },
+  {
+    "id": "stalin-dies-1924",
+    "title": "What if Stalin died with Lenin in 1924?",
+    "premise": "Trotsky takes power instead, Soviet path diverges, no purges, world revolution attempted, very different 20th century.",
+    "category": "leader",
+    "era": "1920s",
+    "visual_tone": "Soviet constructivism, red banners, austere intellectual revolutionaries"
+  },
+  {
+    "id": "library-of-baghdad-saved",
+    "title": "What if the House of Wisdom in Baghdad survived?",
+    "premise": "Mongols don't destroy the great Islamic library in 1258, Golden Age of Islam continues, science soars centuries ahead.",
+    "category": "discovery",
+    "era": "medieval",
+    "visual_tone": "golden Islamic architecture, observatory domes, Arabic calligraphy on walls"
+  },
+  {
+    "id": "the-dinosaurs-survive",
+    "title": "What if the asteroid missed Earth 66 million years ago?",
+    "premise": "Chicxulub impactor passes harmlessly, dinosaurs evolve intelligence, modern world is ruled by sentient reptiles.",
+    "category": "discovery",
+    "era": "prehistoric",
+    "visual_tone": "intelligent dinosaurs in futuristic cities, jungle metropolis, prehistoric sci-fi"
+  },
+  {
+    "id": "pearl-harbor-no-attack",
+    "title": "What if Pearl Harbor was never attacked?",
+    "premise": "Japan strikes only British/Dutch colonies, the US stays out of WW2, Britain falls without American aid.",
+    "category": "war",
+    "era": "1940s",
+    "visual_tone": "1940s naval scenes, Pacific sunrise, vintage US Navy aesthetic"
+  },
+  {
+    "id": "ai-invented-1980",
+    "title": "What if AI was invented in 1980?",
+    "premise": "True artificial intelligence emerges with early computers, automation hits society 40 years early, no internet revolution.",
+    "category": "technology",
+    "era": "1980s",
+    "visual_tone": "80s computer labs, CRT monitors, retro-futurist neon, synthwave"
+  },
+  {
+    "id": "french-revolution-fails",
+    "title": "What if the French Revolution failed?",
+    "premise": "1789 storming of the Bastille is crushed, monarchy stays, no Napoleon, no modern democracy as we know it.",
+    "category": "war",
+    "era": "1780s",
+    "visual_tone": "Versailles opulence, royal blue and gold, candlelit baroque halls"
+  },
+  {
+    "id": "berlin-wall-never-falls",
+    "title": "What if the Berlin Wall never fell?",
+    "premise": "1989 protests are crushed, East Germany survives, Soviet bloc persists, world remains bipolar through the 2000s.",
+    "category": "war",
+    "era": "1980s",
+    "visual_tone": "gray East German Berlin, watchtowers, brutalist Soviet bloc atmosphere"
+  },
+  {
+    "id": "vesuvius-doesnt-erupt",
+    "title": "What if Vesuvius never erupted on Pompeii?",
+    "premise": "79 AD eruption postponed, Pompeii grows into a major Roman city, history's most preserved time capsule never created.",
+    "category": "disaster",
+    "era": "ancient",
+    "visual_tone": "thriving ancient Pompeii, marble villas, Mediterranean Roman elegance"
+  },
+  {
+    "id": "darwin-doesnt-sail",
+    "title": "What if Darwin never sailed on the Beagle?",
+    "premise": "Theory of evolution delayed by 50 years, religious explanation dominates biology, very different scientific timeline.",
+    "category": "discovery",
+    "era": "1830s",
+    "visual_tone": "Victorian natural history, brass instruments, candlelit cabinets of curiosities"
+  },
+  {
+    "id": "china-discovers-america",
+    "title": "What if China discovered America first?",
+    "premise": "Admiral Zheng He's fleet reaches California in 1421, Chinese empires colonize the Pacific, Mandarin is global lingua franca.",
+    "category": "discovery",
+    "era": "1400s",
+    "visual_tone": "Ming dynasty fleets at American shores, dragon banners over Pacific cliffs"
+  },
+  {
+    "id": "soviets-land-on-moon",
+    "title": "What if the Soviets landed on the Moon first?",
+    "premise": "N1 rocket succeeds, hammer and sickle planted on lunar surface in 1968, USSR wins space race, Cold War momentum shifts.",
+    "category": "technology",
+    "era": "1960s",
+    "visual_tone": "Soviet space program propaganda, red flag on moon, atompunk Soviet futurism"
+  },
+  {
+    "id": "great-fire-of-london",
+    "title": "What if London burned to the ground in 1666?",
+    "premise": "Fire isn't contained, all of London is destroyed, capital moves elsewhere, British Empire emerges from different roots.",
+    "category": "disaster",
+    "era": "1660s",
+    "visual_tone": "burning London skyline, baroque chaos, flames over Thames"
+  },
+  {
+    "id": "tunguska-hits-city",
+    "title": "What if the Tunguska event hit a city?",
+    "premise": "1908 explosion lands on Saint Petersburg instead of Siberia, millions die, Russian Empire collapses early.",
+    "category": "disaster",
+    "era": "1900s",
+    "visual_tone": "early 1900s Petersburg, sudden devastation, Tsarist Russia in chaos"
+  },
+  {
+    "id": "vikings-stay-in-america",
+    "title": "What if the Vikings colonized America?",
+    "premise": "Leif Erikson's settlement at L'Anse aux Meadows thrives, Norse culture spreads across North America 500 years before Columbus.",
+    "category": "discovery",
+    "era": "medieval",
+    "visual_tone": "Viking longships on American shores, runic stones in forests, Norse + native fusion"
+  },
+  {
+    "id": "antibiotics-never-discovered",
+    "title": "What if Fleming never discovered penicillin?",
+    "premise": "1928 mold contamination is cleaned up, antibiotics arrive decades later, simple infections remain deadly through 20th century.",
+    "category": "discovery",
+    "era": "1920s",
+    "visual_tone": "1920s hospital wards, anxious doctors, sepia medical drama"
+  },
+  {
+    "id": "ottoman-conquers-vienna",
+    "title": "What if the Ottomans took Vienna in 1683?",
+    "premise": "Siege succeeds, Islam reaches central Europe, Habsburg Empire collapses, the West-East line shifts forever.",
+    "category": "war",
+    "era": "1680s",
+    "visual_tone": "Ottoman cavalry under Viennese cathedrals, crescent flags over baroque palaces"
+  },
+  {
+    "id": "ancient-aliens-real",
+    "title": "What if we discovered ancient alien artifacts today?",
+    "premise": "Egyptian dig in 2025 reveals undeniable extraterrestrial technology buried for millennia, religion and science collide.",
+    "category": "discovery",
+    "era": "modern",
+    "visual_tone": "modern Egyptian dig site reveals glowing alien tech, awe and dread"
+  },
+  {
+    "id": "covid-stays-secret",
+    "title": "What if COVID-19 was contained in Wuhan?",
+    "premise": "Initial outbreak is fully suppressed, no pandemic, no lockdowns, world enters 2020s on a totally different trajectory.",
+    "category": "plague",
+    "era": "modern",
+    "visual_tone": "early 2020 Wuhan with hazmat teams, modern epidemiology drama, blue medical light"
+  },
+  {
+    "id": "spartans-win-thermopylae",
+    "title": "What if the 300 Spartans won at Thermopylae?",
+    "premise": "Persian invasion is repelled at the pass, Persia retreats, Greek city-states don't unify, no classical Greek dominance.",
+    "category": "war",
+    "era": "ancient",
+    "visual_tone": "rocky Greek pass, bronze armor, golden hour over the Aegean"
+  },
+  {
+    "id": "edison-loses-cinema",
+    "title": "What if Edison didn't monopolize early film?",
+    "premise": "His patent trust never controls cinema, Hollywood arises elsewhere, the global film industry develops from Europe or Japan instead.",
+    "category": "technology",
+    "era": "1900s",
+    "visual_tone": "early silent film era, sepia tones, European film studios"
+  },
+  {
+    "id": "manhattan-project-fails",
+    "title": "What if the Manhattan Project failed?",
+    "premise": "Atomic bomb isn't built in time, Pacific War drags into 1947 with invasion of Japan, millions more die, nuclear age delayed.",
+    "category": "war",
+    "era": "1940s",
+    "visual_tone": "WW2 invasion of Japan, somber tones, conventional warfare grinds on"
+  },
+  {
+    "id": "tutankhamun-tomb-found-1700s",
+    "title": "What if King Tut's tomb was found in 1722?",
+    "premise": "Ancient Egyptian treasures unearthed during the Enlightenment, Egyptology becomes the dominant science, completely different museum world.",
+    "category": "discovery",
+    "era": "1700s",
+    "visual_tone": "candle-lit Egyptian artifacts in European salons, gold and lapis lazuli glow"
+  },
+  {
+    "id": "challenger-doesnt-explode",
+    "title": "What if the Challenger never exploded?",
+    "premise": "1986 launch goes smoothly, Christa McAuliffe teaches from space, NASA's reputation soars, space tourism arrives in the 90s.",
+    "category": "technology",
+    "era": "1980s",
+    "visual_tone": "1986 NASA optimism, shuttle in orbit, schoolchildren watching with awe"
+  },
+  {
+    "id": "great-depression-prevented",
+    "title": "What if the 1929 stock market crash was prevented?",
+    "premise": "Federal Reserve intervenes in time, no Great Depression, no New Deal, no Hitler rise, 20th century unrecognizable.",
+    "category": "war",
+    "era": "1920s",
+    "visual_tone": "Roaring Twenties continues into the 30s, art deco prosperity, glittering jazz age"
+  },
+  {
+    "id": "cleopatra-caesarion-survives",
+    "title": "What if Caesarion survived Octavian's purge?",
+    "premise": "Cleopatra's son with Julius Caesar escapes Egypt in 30 BCE, raised in Nubia as a god-king. He returns at 30 with an African army to claim Rome as his birthright.",
+    "category": "leader",
+    "era": "ancient",
+    "visual_tone": "Golden Nile sunsets, marble palaces, kohl-lined eyes, hieroglyphs glowing under torchlight"
+  },
+  {
+    "id": "han-china-discovers-steam",
+    "title": "What if Han China industrialized in 100 AD?",
+    "premise": "A Han engineer perfects a working steam engine using existing waterwheel tech. By 200 AD, Chinese railroads stretch from Korea to Persia, conquering the Silk Road.",
+    "category": "technology",
+    "era": "ancient",
+    "visual_tone": "Bronze gears in jade workshops, steam curling around pagodas, silk banners over iron tracks"
+  },
+  {
+    "id": "crusaders-take-mecca",
+    "title": "What if the Crusaders sacked Mecca in 1187?",
+    "premise": "Reynald of Châtillon's Red Sea raid succeeds, reaching Mecca and burning the Kaaba. The Islamic world unites in a holy war that drowns Europe in fire for centuries.",
+    "category": "war",
+    "era": "medieval",
+    "visual_tone": "Desert dust and crusader steel, black smoke over white minarets, blood on sand"
+  },
+  {
+    "id": "byzantine-greek-fire-survives",
+    "title": "What if the recipe for Greek Fire never was lost?",
+    "premise": "Byzantine alchemists preserve the formula through the fall of Constantinople. By WWI, weaponized Greek Fire becomes the standard flamethrower, reshaping every modern war.",
+    "category": "technology",
+    "era": "medieval",
+    "visual_tone": "Emerald flames on dark seas, bronze siphons, mosaic-lit monasteries hiding scrolls"
+  },
+  {
+    "id": "joan-of-arc-survives",
+    "title": "What if Joan of Arc escaped the stake?",
+    "premise": "English guards are bribed in 1431 and Joan flees to lead a united France into a holy empire. She crowns herself warrior-queen and invades England by 1440.",
+    "category": "leader",
+    "era": "medieval",
+    "visual_tone": "Silver armor in candlelit cathedrals, golden fleurs-de-lis, smoke and stained glass"
+  },
+  {
+    "id": "zheng-he-colonizes-africa",
+    "title": "What if Zheng He kept sailing past Africa?",
+    "premise": "The Ming treasure fleet rounds the Cape in 1421 and establishes Chinese colonies along West Africa. Portuguese explorers find Mandarin-speaking ports waiting for them.",
+    "category": "discovery",
+    "era": "age of exploration",
+    "visual_tone": "Massive red-sailed junks against African coasts, ivory and porcelain markets, blue ocean haze"
+  },
+  {
+    "id": "aztecs-defeat-cortes",
+    "title": "What if the Aztecs crushed Cortés in 1521?",
+    "premise": "Smallpox arrives a decade later and Tenochtitlán's warriors slaughter the Spanish during La Noche Triste. The Aztec Empire industrializes with European captives' knowledge.",
+    "category": "empire",
+    "era": "age of exploration",
+    "visual_tone": "Obsidian blades, jaguar warriors over canals, blood-red temples piercing volcanic sky"
+  },
+  {
+    "id": "spanish-armada-wins",
+    "title": "What if the Spanish Armada conquered England in 1588?",
+    "premise": "Favorable winds let Philip II's fleet land 30,000 troops in Kent. Elizabeth is executed, England becomes Catholic again, and there is no British Empire.",
+    "category": "war",
+    "era": "renaissance",
+    "visual_tone": "Galleons in storm light, Tudor banners burning, candle-lit cathedrals filling with Spanish priests"
+  },
+  {
+    "id": "newton-alchemy-works",
+    "title": "What if Newton's alchemy actually worked?",
+    "premise": "In 1680, Isaac Newton transmutes lead into gold and discovers the philosopher's stone. Europe enters an alchemical age where physics and magic become indistinguishable.",
+    "category": "discovery",
+    "era": "renaissance",
+    "visual_tone": "Dim laboratories, glowing crucibles, dusty leather books, mercury flowing like liquid stars"
+  },
+  {
+    "id": "ming-survives-1644",
+    "title": "What if the Ming Dynasty survived the Manchu invasion?",
+    "premise": "Beijing's walls hold in 1644 and the Manchus are pushed back into the steppes. Ming China industrializes ahead of Europe and colonizes the Pacific by 1700.",
+    "category": "empire",
+    "era": "renaissance",
+    "visual_tone": "Crimson Forbidden City rooftops, lacquered armor, paper lanterns over teeming canals"
+  },
+  {
+    "id": "ottomans-discover-oil",
+    "title": "What if the Ottomans discovered oil in 1500?",
+    "premise": "A Baghdad engineer harnesses Mesopotamian crude for combustion engines centuries early. The Ottoman Empire becomes the industrial superpower, never declines, and rules into the 21st century.",
+    "category": "empire",
+    "era": "renaissance",
+    "visual_tone": "Gilded mosques with smokestacks, oil derricks beside minarets, sultans in mechanized palaces"
+  },
+  {
+    "id": "tokugawa-keeps-guns",
+    "title": "What if Japan kept its guns in 1600?",
+    "premise": "The Tokugawa Shogunate embraces firearms instead of banning them. By 1700, samurai become gun-warriors, and Japan colonizes the Pacific before any Western power arrives.",
+    "category": "technology",
+    "era": "renaissance",
+    "visual_tone": "Lacquered armor with flintlocks, cherry blossoms over warship harbors, ink-wash skies"
+  },
+  {
+    "id": "thirty-years-war-ends-early",
+    "title": "What if the Thirty Years' War ended in five?",
+    "premise": "A 1623 peace treaty saves 8 million lives and leaves the Holy Roman Empire intact. Germany unifies two centuries early under the Habsburgs, becoming Europe's superpower.",
+    "category": "war",
+    "era": "renaissance",
+    "visual_tone": "Snowy Bohemian forests, candlelit treaty chambers, breath fogging on pikes and parchment"
+  },
+  {
+    "id": "american-revolution-fails",
+    "title": "What if Washington was captured at Valley Forge?",
+    "premise": "A British raid in 1778 captures Washington and ends the revolution. America remains 13 loyal colonies, and the French Revolution never has its inspiration.",
+    "category": "war",
+    "era": "1700s",
+    "visual_tone": "Snow-blanketed winter camps, redcoats by lantern light, frozen rivers reflecting muskets"
+  },
+  {
+    "id": "haiti-conquers-caribbean",
+    "title": "What if Toussaint Louverture built a Caribbean empire?",
+    "premise": "Toussaint isn't betrayed in 1802 and unites Haiti, Cuba, and Jamaica into a Black republic that overthrows slavery across the Americas decades early.",
+    "category": "leader",
+    "era": "1800s",
+    "visual_tone": "Tropical fortresses, broken chains in firelight, palm trees against revolutionary banners"
+  },
+  {
+    "id": "louisiana-purchase-fails",
+    "title": "What if Napoleon never sold Louisiana?",
+    "premise": "Napoleon keeps the territory in 1803, planning a French American empire. A 19th-century war erupts between France and the young USA over the Mississippi.",
+    "category": "empire",
+    "era": "1800s",
+    "visual_tone": "Bayou mist, French eagles on riverboats, muddy frontier forts under torchlight"
+  },
+  {
+    "id": "babbage-engine-works",
+    "title": "What if Babbage finished his Analytical Engine?",
+    "premise": "In 1845, Charles Babbage and Ada Lovelace complete the first computer. Victorian London runs on punch-card machines, and the digital age begins under gaslight.",
+    "category": "technology",
+    "era": "1800s",
+    "visual_tone": "Brass gears clicking by gaslight, fog-shrouded London, telegraph cables strung between cathedrals"
+  },
+  {
+    "id": "lincoln-kills-slavery-1850",
+    "title": "What if slavery ended peacefully in 1850?",
+    "premise": "A compromise buyout abolishes American slavery without civil war. Without the conflict, Reconstruction never happens and the racial reckoning unfolds over the next century instead.",
+    "category": "leader",
+    "era": "1800s",
+    "visual_tone": "Sepia daguerreotypes, cotton fields at dawn, top hats and quill-signed parchments"
+  },
+  {
+    "id": "qing-defeats-britain-opium",
+    "title": "What if China won the Opium Wars?",
+    "premise": "The Qing modernize their navy in 1839 and sink the British fleet. Hong Kong stays Chinese, Europe is humbled, and the 'Century of Humiliation' never happens.",
+    "category": "war",
+    "era": "1800s",
+    "visual_tone": "Steam warships with dragon prows, burning opium crates, jade-green seas under storm"
+  },
+  {
+    "id": "krakatoa-erupts-bigger",
+    "title": "What if Krakatoa erupted ten times bigger?",
+    "premise": "The 1883 eruption is supersized, plunging Earth into a five-year volcanic winter. Crops fail globally, empires collapse, and the 20th century dawns into a frozen apocalypse.",
+    "category": "disaster",
+    "era": "1800s",
+    "visual_tone": "Red-orange skies, ash-covered cities, refugees in Victorian coats trudging through snow"
+  },
+  {
+    "id": "alaska-stays-russian",
+    "title": "What if Russia never sold Alaska?",
+    "premise": "The 1867 sale falls through and Russian Alaska becomes a Pacific fortress. In WWII, Stalin's tanks roll from Anchorage toward Seattle, opening a North American front.",
+    "category": "empire",
+    "era": "1800s",
+    "visual_tone": "Snow-buried Orthodox churches, fur-clad cossacks on dog sleds, aurora over wooden forts"
+  },
+  {
+    "id": "marie-curie-radium-mass-produced",
+    "title": "What if radium became the energy of 1910?",
+    "premise": "Marie Curie's radium is mass-produced for everyday use—glowing watches, drinks, beds. Half the western world is radioactive by 1930, mutating an entire generation.",
+    "category": "technology",
+    "era": "1900s",
+    "visual_tone": "Green-glowing factories, Art Nouveau posters of radium tonics, sickly elegant flapper salons"
+  },
+  {
+    "id": "russian-revolution-fails",
+    "title": "What if the Russian Revolution failed in 1917?",
+    "premise": "Lenin's sealed train is intercepted and the Bolsheviks are crushed. The Tsar's son rules a constitutional Russia, there is no USSR, and Communism dies in its cradle.",
+    "category": "leader",
+    "era": "1900s",
+    "visual_tone": "Snow-covered Petrograd palaces, imperial gold, smoke trailing from frozen trains"
+  },
+  {
+    "id": "wwi-ends-1915",
+    "title": "What if WWI ended in 1915?",
+    "premise": "A negotiated peace ends the war after one year. Without 17 million dead or the Treaty of Versailles, Hitler never rises and the entire 20th century unfolds differently.",
+    "category": "war",
+    "era": "1900s",
+    "visual_tone": "Trench mud giving way to crisp diplomatic parlors, faded khaki, doves over barbed wire"
+  },
+  {
+    "id": "ottoman-empire-survives-wwi",
+    "title": "What if the Ottoman Empire survived WWI?",
+    "premise": "The Ottomans broker neutrality in 1914 and stay intact. The modern Middle East never fragments, Israel is founded inside the Caliphate, and oil belongs to Istanbul.",
+    "category": "empire",
+    "era": "1900s",
+    "visual_tone": "Istanbul skyline of minarets and oil rigs, jeweled sultans on radio broadcasts, golden Bosphorus"
+  },
+  {
+    "id": "spanish-civil-war-republic-wins",
+    "title": "What if the Spanish Republic defeated Franco?",
+    "premise": "In 1939, Republican forces hold Madrid and Franco is executed. Spain becomes a leftist democracy that joins the Allies, fundamentally altering WWII's southern front.",
+    "category": "war",
+    "era": "1900s",
+    "visual_tone": "Sun-bleached Madrid streets, anarchist banners, Picasso-style harsh shadows and red dust"
+  },
+  {
+    "id": "stalingrad-falls-1942",
+    "title": "What if Stalingrad fell to the Nazis?",
+    "premise": "The Wehrmacht takes the city in winter 1942 and pushes to the Urals. The Soviet Union collapses, and the war becomes an Anglo-American invasion of fortress Europe.",
+    "category": "war",
+    "era": "1940s",
+    "visual_tone": "Ruined factories in snow, swastika banners on the Volga, breath-fog over burnt tanks"
+  },
+  {
+    "id": "operation-valkyrie-succeeds",
+    "title": "What if the July 20 plot killed Hitler?",
+    "premise": "Stauffenberg's bomb kills Hitler in 1944 and German generals sue for peace. WWII ends a year early, sparing millions—but the Cold War begins on the Rhine instead of Berlin.",
+    "category": "leader",
+    "era": "1940s",
+    "visual_tone": "Smoldering Wolf's Lair bunker, gray uniforms, tense radio rooms in flickering lamp light"
+  },
+  {
+    "id": "japan-conquers-india",
+    "title": "What if Japan invaded India in 1942?",
+    "premise": "After Singapore, Imperial Japan pushes through Burma into India. The Raj collapses, Britain loses its crown jewel, and a Japanese-aligned India joins the Axis.",
+    "category": "war",
+    "era": "1940s",
+    "visual_tone": "Monsoon jungles with rising-sun flags, elephants beside tanks, golden temples under bomber shadow"
+  },
+  {
+    "id": "ddt-mosquitoes-evolve",
+    "title": "What if DDT created super-malaria in 1955?",
+    "premise": "Heavy postwar DDT spraying breeds an unstoppable mosquito strain. By 1970, malaria ravages Europe and North America, killing 50 million in temperate zones.",
+    "category": "plague",
+    "era": "1950s",
+    "visual_tone": "Sun-baked suburbs with quarantine signs, vintage hazmat suits, fever-dream pastel colors"
+  },
+  {
+    "id": "korean-war-nuke",
+    "title": "What if MacArthur nuked China in 1951?",
+    "premise": "Truman approves the use of atomic weapons in Korea. Twenty cities vaporize, the USSR retaliates against Japan, and WWIII begins six years after WWII ended.",
+    "category": "war",
+    "era": "1950s",
+    "visual_tone": "Mushroom clouds over rice paddies, 1950s newsreel grain, GIs in surplus helmets watching the horizon"
+  },
+  {
+    "id": "polio-vaccine-delayed",
+    "title": "What if Salk never made the polio vaccine?",
+    "premise": "Jonas Salk dies young in 1947, and polio rages unchecked for two more decades. By 1970, half of every generation walks with braces, reshaping disability rights worldwide.",
+    "category": "plague",
+    "era": "1950s",
+    "visual_tone": "Iron lungs in green hospital wards, braced children on suburban lawns, polaroid pastels"
+  },
+  {
+    "id": "suez-crisis-wwiii",
+    "title": "What if Suez 1956 triggered WWIII?",
+    "premise": "Eisenhower backs Britain and France against Egypt, and the USSR responds with missiles on London. The Cold War goes hot a decade earlier than 1962.",
+    "category": "war",
+    "era": "1950s",
+    "visual_tone": "Desert convoys, oil fires by canals, Soviet bombers over fog-shrouded Big Ben"
+  },
+  {
+    "id": "castro-baseball-career",
+    "title": "What if Castro played pro baseball?",
+    "premise": "Fidel signs with the Washington Senators in 1949 and never returns to politics. Cuba stays under Batista, there's no missile crisis, and the Caribbean's history is rewritten.",
+    "category": "leader",
+    "era": "1950s",
+    "visual_tone": "Vintage baseball cards, Havana neon, cigars and tropical pinstripes under stadium lights"
+  },
+  {
+    "id": "che-survives-bolivia",
+    "title": "What if Che Guevara survived Bolivia?",
+    "premise": "Che escapes the 1967 ambush and ignites successful guerrilla revolutions across South America. By 1980, a continental socialist federation rivals the USA.",
+    "category": "leader",
+    "era": "1960s",
+    "visual_tone": "Jungle dawns over guerrilla camps, faded olive fatigues, beret silhouettes against Andean peaks"
+  },
+  {
+    "id": "vietnam-us-wins",
+    "title": "What if the US won Vietnam?",
+    "premise": "Nixon escalates in 1969 and topples Hanoi. A unified, capitalist Vietnam joins Asia's tigers, but Cambodia and Laos burn for decades in the resulting power vacuum.",
+    "category": "war",
+    "era": "1960s",
+    "visual_tone": "Jungle helicopter sunsets, faded film grain, rice paddies under bomb-bay shadows"
+  },
+  {
+    "id": "mlk-survives-memphis",
+    "title": "What if MLK survived the Memphis balcony?",
+    "premise": "The bullet misses in 1968 and King leads the Poor People's Campaign into the 1970s. He runs for president in 1976 and transforms American politics for generations.",
+    "category": "leader",
+    "era": "1960s",
+    "visual_tone": "Black-and-white news footage warming into color, marches at golden hour, motel balconies and microphones"
+  },
+  {
+    "id": "saudi-oil-never-found",
+    "title": "What if Saudi oil was never discovered?",
+    "premise": "The 1938 Dammam wells come up dry. The 20th century runs on coal and Caspian oil instead, and the modern Middle East remains an impoverished backwater.",
+    "category": "discovery",
+    "era": "modern",
+    "visual_tone": "Empty desert dunes, abandoned derricks, Bedouin camps under unchanged starlight"
+  },
+  {
+    "id": "oil-crisis-1973-prevented",
+    "title": "What if OPEC never embargoed in 1973?",
+    "premise": "Diplomacy averts the oil shock and gasoline stays cheap. America never goes green, SUVs dominate by 1980, and climate change accelerates a full decade ahead of schedule.",
+    "category": "disaster",
+    "era": "1970s",
+    "visual_tone": "Endless freeway suburbia, neon gas stations, hazy smog sunsets over chrome bumpers"
+  },
+  {
+    "id": "soviet-union-survives-1991",
+    "title": "What if the USSR survived 1991?",
+    "premise": "Gorbachev's reforms stabilize the Union and crush the August coup. The USSR enters the 21st century as a tech superpower, racing China and a diminished USA.",
+    "category": "empire",
+    "era": "1990s",
+    "visual_tone": "Red stars over fiber-optic towers, brutalist Moscow at dusk, snow on satellite dishes"
+  },
+  {
+    "id": "y2k-actually-happened",
+    "title": "What if Y2K actually crashed everything?",
+    "premise": "On January 1, 2000, banks, planes, and power grids fail worldwide. Civilization staggers through a digital dark age, and humanity rebuilds the internet from scratch.",
+    "category": "disaster",
+    "era": "2000s",
+    "visual_tone": "Frozen CRT screens, candlelit server rooms, millennium fireworks reflected in dead skyscraper windows"
+  },
+  {
+    "id": "iraq-war-never-happened",
+    "title": "What if the Iraq War never happened?",
+    "premise": "Powell refuses to lie at the UN in 2003 and Bush stands down. Saddam stays in power, ISIS never forms, and 4 million displaced Iraqis live ordinary lives.",
+    "category": "war",
+    "era": "2000s",
+    "visual_tone": "Baghdad markets in golden light, untouched ancient ziggurats, no smoke on the horizon"
+  },
+  {
+    "id": "facebook-rejected",
+    "title": "What if Zuckerberg sold Facebook in 2006?",
+    "premise": "Yahoo's $1 billion offer is accepted and Facebook dies inside corporate bureaucracy. Social media never centralizes, MySpace and forums dominate, and the 2010s look unrecognizable.",
+    "category": "technology",
+    "era": "2000s",
+    "visual_tone": "Dorm rooms in blue laptop glow, dial-up nostalgia, MySpace-style chaos in neon HTML"
+  },
+  {
+    "id": "lehman-saved-2008",
+    "title": "What if Lehman Brothers was bailed out?",
+    "premise": "The Treasury saves Lehman in September 2008 and the Great Recession is averted. But the housing bubble grows three more years and bursts catastrophically in 2011.",
+    "category": "disaster",
+    "era": "2000s",
+    "visual_tone": "Wall Street in sharp gray suits, trading floors lit blue, glass towers reflecting storm clouds"
+  },
+  {
+    "id": "fukushima-meltdown-prevented",
+    "title": "What if the Fukushima seawall was taller?",
+    "premise": "TEPCO builds a 15-meter wall in 2008 and the 2011 tsunami fails to breach the reactors. Nuclear power is never demonized, and the 2020s run on atomic energy.",
+    "category": "disaster",
+    "era": "2010s",
+    "visual_tone": "Glassy reactor domes against ocean, neon Japanese cities glowing with clean power, calm sea spray"
+  },
+  {
+    "id": "arab-spring-democracies",
+    "title": "What if the Arab Spring succeeded?",
+    "premise": "The 2011 uprisings produce stable democracies across North Africa and the Levant. Syria never burns, refugees stay home, and a Middle Eastern union rivals the EU.",
+    "category": "leader",
+    "era": "2010s",
+    "visual_tone": "Tahrir Square at dawn, smartphone screens in golden crowds, banners against ancient stone"
+  },
+  {
+    "id": "bitcoin-banned-2013",
+    "title": "What if every government banned Bitcoin in 2013?",
+    "premise": "Coordinated global bans crush crypto in its infancy. Without Bitcoin, central bank digital currencies arrive a decade early and cash disappears by 2025.",
+    "category": "technology",
+    "era": "2010s",
+    "visual_tone": "Surveillance cameras on QR codes, sleek government apps, biometric scanners glowing blue"
+  },
+  {
+    "id": "antibiotics-stop-working",
+    "title": "What if antibiotics stop working tomorrow?",
+    "premise": "In 2025, every major antibiotic fails simultaneously due to superbug evolution. Routine surgeries become death sentences, and humanity returns to a pre-1928 medical world.",
+    "category": "plague",
+    "era": "near future",
+    "visual_tone": "Hospital corridors in cold blue, masked surgeons, candlelit field clinics in modern cities"
+  },
+  {
+    "id": "agi-arrives-2027",
+    "title": "What if AGI is achieved in 2027?",
+    "premise": "A lab announces true artificial general intelligence three years from now. Within six months it solves cancer—and also makes 40% of jobs obsolete overnight.",
+    "category": "technology",
+    "era": "near future",
+    "visual_tone": "Server farms glowing white-hot, empty offices, humans watching screens with awe and dread"
+  },
+  {
+    "id": "yellowstone-erupts",
+    "title": "What if Yellowstone erupted next year?",
+    "premise": "The supervolcano awakens, blanketing North America in ash. The US becomes uninhabitable, 200 million migrate south, and the world's breadbasket disappears for a decade.",
+    "category": "disaster",
+    "era": "near future",
+    "visual_tone": "Ash-darkened skies, gray snow on highways, refugee convoys in apocalyptic orange twilight"
+  },
+  {
+    "id": "hannibal-takes-rome",
+    "title": "What if Hannibal sacked Rome after Cannae?",
+    "premise": "Instead of hesitating in 216 BC, Hannibal marches on a defenseless Rome and burns the Republic to ash. Carthage becomes the Mediterranean superpower and Latin dies as a language.",
+    "category": "war",
+    "era": "ancient",
+    "visual_tone": "war elephants silhouetted against burning marble temples at dusk"
+  },
+  {
+    "id": "akhenaten-monotheism-spreads",
+    "title": "What if Akhenaten's sun religion conquered the world?",
+    "premise": "Pharaoh Akhenaten's monotheistic Aten cult survives his death and spreads across the Near East, preempting Judaism, Christianity, and Islam by a thousand years.",
+    "category": "leader",
+    "era": "ancient",
+    "visual_tone": "golden desert sun, hieroglyphic temples bathed in blinding light"
+  },
+  {
+    "id": "qin-shi-huang-immortal",
+    "title": "What if Qin Shi Huang's immortality elixir worked?",
+    "premise": "China's first emperor drinks mercury and never dies, ruling a unified Qin dynasty for two thousand years. The terracotta army becomes a living imperial guard.",
+    "category": "leader",
+    "era": "ancient",
+    "visual_tone": "jade palaces, crimson banners, an ageless emperor on an obsidian throne"
+  },
+  {
+    "id": "socrates-flees-athens",
+    "title": "What if Socrates escaped instead of drinking hemlock?",
+    "premise": "Socrates flees to Persia in 399 BC and founds a Greco-Persian philosophical academy. Plato never writes the Republic and Western philosophy takes an entirely Eastern turn.",
+    "category": "leader",
+    "era": "ancient",
+    "visual_tone": "olive groves fading into Persian gardens lit by oil lamps"
+  },
+  {
+    "id": "bronze-age-collapse-averted",
+    "title": "What if the Bronze Age never collapsed?",
+    "premise": "The mysterious Sea Peoples are defeated in 1177 BC and the Hittite, Mycenaean, and Egyptian empires survive. Iron is never widely adopted and bronze civilization rules into the modern era.",
+    "category": "empire",
+    "era": "ancient",
+    "visual_tone": "glittering bronze armor, Mediterranean fortresses untouched by ruin"
+  },
+  {
+    "id": "buddha-stays-prince",
+    "title": "What if Siddhartha never left the palace?",
+    "premise": "Prince Siddhartha remains a sheltered royal and dies a forgotten king. Buddhism never exists, leaving half a billion future believers without a faith.",
+    "category": "leader",
+    "era": "ancient",
+    "visual_tone": "lush Indian palace gardens, lotus pools, no monk in sight"
+  },
+  {
+    "id": "justinian-plague-stopped",
+    "title": "What if the Plague of Justinian was contained?",
+    "premise": "Byzantine quarantine halts the 541 AD plague at the docks of Pelusium. Justinian reconquers the entire Western Roman Empire and the Middle Ages never begin.",
+    "category": "plague",
+    "era": "medieval",
+    "visual_tone": "golden Byzantine mosaics gleaming over a thriving Constantinople harbor"
+  },
+  {
+    "id": "prophet-muhammad-meccan-deal",
+    "title": "What if Muhammad accepted Mecca's bribe in 619?",
+    "premise": "The Quraysh offer wealth and kingship, and the Prophet stays in Mecca instead of fleeing to Medina. Islam fizzles as a local cult and Arabia stays polytheist.",
+    "category": "leader",
+    "era": "medieval",
+    "visual_tone": "sandstone Kaaba surrounded by pagan idols, caravans winding through dunes"
+  },
+  {
+    "id": "charlemagne-empire-survives",
+    "title": "What if Charlemagne's empire never split?",
+    "premise": "The Treaty of Verdun is never signed and the Frankish Empire stays unified under one heir. France, Germany, and Italy never emerge as separate nations.",
+    "category": "empire",
+    "era": "medieval",
+    "visual_tone": "candle-lit cathedrals, iron crowns, banners of a single Frankish eagle"
+  },
+  {
+    "id": "china-discovers-gunpowder-weapon-earlier",
+    "title": "What if Tang China weaponized gunpowder in 700 AD?",
+    "premise": "Alchemists perfect cannon five centuries early and Tang armies blast through Central Asia into Europe. Castles never rise because nothing can withstand Chinese artillery.",
+    "category": "technology",
+    "era": "medieval",
+    "visual_tone": "jade dragons emblazoned on bronze cannons, smoke over silk road mountains"
+  },
+  {
+    "id": "vikings-take-paris",
+    "title": "What if the Vikings permanently captured Paris in 845?",
+    "premise": "Ragnar's raiders don't accept Charles the Bald's tribute and instead establish a Norse kingdom on the Seine. France becomes a Scandinavian Christian-pagan hybrid state.",
+    "category": "war",
+    "era": "medieval",
+    "visual_tone": "longships docked under Notre Dame's foundations, runes carved into Frankish stone"
+  },
+  {
+    "id": "black-death-skips-europe",
+    "title": "What if the Black Death never reached Europe?",
+    "premise": "Genoese ships are turned away from Messina in 1347 and the plague stays in Asia. Feudalism stays intact, the Renaissance never happens, and serfs remain bound for centuries.",
+    "category": "plague",
+    "era": "medieval",
+    "visual_tone": "gloomy gray castles, peasants toiling in muddy fields, no light of revival"
+  },
+  {
+    "id": "prester-john-real",
+    "title": "What if the Christian kingdom of Prester John was real?",
+    "premise": "Medieval Crusaders discover a vast Christian empire in Ethiopia in 1165 and ally with it. A two-front war crushes Islam and Christianity becomes Africa's dominant faith by 1200.",
+    "category": "empire",
+    "era": "medieval",
+    "visual_tone": "rock-hewn Ethiopian churches glowing under torchlight, crusader banners on red cliffs"
+  },
+  {
+    "id": "mansa-musa-industrializes-mali",
+    "title": "What if Mansa Musa industrialized Mali with his gold?",
+    "premise": "Returning from Mecca in 1325, Musa imports Arab scholars and engineers and builds the world's first industrial economy on the Niger. Mali becomes the wealthiest empire of the next 500 years.",
+    "category": "empire",
+    "era": "medieval",
+    "visual_tone": "mud-brick mosques rising into golden skylines, caravans of ingots crossing the Sahara"
+  },
+  {
+    "id": "da-vinci-flying-machine-works",
+    "title": "What if Leonardo's flying machine actually flew?",
+    "premise": "In 1496 Leonardo da Vinci glides off a Florentine tower and lands safely. Renaissance Italy enters an aerial age 400 years before the Wright brothers.",
+    "category": "technology",
+    "era": "medieval",
+    "visual_tone": "wooden wings over Tuscan rooftops, sketches come alive in golden hour light"
+  },
+  {
+    "id": "luther-burned",
+    "title": "What if Martin Luther was burned at Worms?",
+    "premise": "Emperor Charles V ignores safe conduct in 1521 and executes Luther on the spot. The Reformation dies in its cradle and Catholic Europe never splits.",
+    "category": "leader",
+    "era": "medieval",
+    "visual_tone": "smoking pyre in a German cathedral square, indulgences fluttering in ash"
+  },
+  {
+    "id": "inca-survive-pizarro",
+    "title": "What if Atahualpa executed Pizarro at Cajamarca?",
+    "premise": "The Inca see through the Spanish ambush in 1532 and slaughter the conquistadors. The Inca Empire industrializes by copying captured muskets and dominates South America into the 1900s.",
+    "category": "war",
+    "era": "medieval",
+    "visual_tone": "Andean stone fortresses, llamas hauling cannons, gold-plated Incan riflemen"
+  },
+  {
+    "id": "shakespeare-dies-young",
+    "title": "What if Shakespeare died of plague at 18?",
+    "premise": "A 1582 outbreak kills William Shakespeare before he writes a single play. English literature is permanently stunted and Hamlet is never a word anyone knows.",
+    "category": "plague",
+    "era": "medieval",
+    "visual_tone": "shuttered Tudor houses, candlelit empty stages, manuscripts blowing into the Thames"
+  },
+  {
+    "id": "tokugawa-loses-sekigahara",
+    "title": "What if Tokugawa lost at Sekigahara in 1600?",
+    "premise": "Ishida Mitsunari wins the decisive battle and Japan stays open to the world, with samurai trading globally. Edo isolation never happens and Japan colonizes the Pacific by 1700.",
+    "category": "war",
+    "era": "medieval",
+    "visual_tone": "samurai galleons under cherry blossom skies, katanas glinting beside cannons"
+  },
+  {
+    "id": "galileo-recants-never",
+    "title": "What if Galileo refused to recant?",
+    "premise": "Galileo dies a martyr in 1633 and Protestant Europe rallies around heliocentrism. The scientific revolution becomes a holy war and the Catholic world falls behind by centuries.",
+    "category": "discovery",
+    "era": "medieval",
+    "visual_tone": "candle-lit Inquisition chambers contrasted with northern observatories under starlight"
+  },
+  {
+    "id": "newton-killed-by-plague",
+    "title": "What if Isaac Newton died in the 1665 plague?",
+    "premise": "The young Cambridge student succumbs to the Great Plague before his apple-tree year. Calculus and gravity are discovered a century later and the Industrial Revolution stalls until 1850.",
+    "category": "discovery",
+    "era": "medieval",
+    "visual_tone": "empty Cambridge orchards, dust on unwritten manuscripts, candles guttering out"
+  },
+  {
+    "id": "haitian-revolution-spreads",
+    "title": "What if the Haitian Revolution sparked a global slave uprising?",
+    "premise": "In 1804, Haiti's victory triggers coordinated revolts from Brazil to Virginia. Slavery collapses worldwide by 1820 and the Americas reorganize as Black-led republics.",
+    "category": "war",
+    "era": "1800s",
+    "visual_tone": "machetes raised against tropical sunsets, plantation houses burning to drumbeats"
+  },
+  {
+    "id": "mexico-keeps-texas",
+    "title": "What if Mexico crushed the Texas Revolution?",
+    "premise": "Santa Anna wins at San Jacinto in 1836 and holds the American Southwest. The US never reaches the Pacific, and California becomes a Spanish-speaking superpower.",
+    "category": "war",
+    "era": "1800s",
+    "visual_tone": "adobe missions under Mexican flags stretching from Houston to Los Angeles"
+  },
+  {
+    "id": "darwin-publishes-1840",
+    "title": "What if Darwin published Origin of Species in 1840?",
+    "premise": "Darwin rushes his theory out twenty years early, before Victorian society is ready. Religious riots tear Britain apart and evolution becomes outlawed in the English-speaking world.",
+    "category": "discovery",
+    "era": "1800s",
+    "visual_tone": "Victorian mobs burning books in gaslit London streets, finch skeletons in the smoke"
+  },
+  {
+    "id": "karl-marx-stays-lawyer",
+    "title": "What if Karl Marx became a successful lawyer?",
+    "premise": "Young Marx takes a Prussian legal post in 1842 and never writes Das Kapital. Communism never coalesces and the 20th century unfolds without a Soviet Union or Cold War.",
+    "category": "leader",
+    "era": "1800s",
+    "visual_tone": "oak-paneled Prussian courtrooms, top hats and ledgers instead of manifestos"
+  },
+  {
+    "id": "lincoln-loses-1860",
+    "title": "What if Lincoln lost the 1860 election?",
+    "premise": "Stephen Douglas wins and offers concessions to the South. Slavery survives in a permanently divided Union and the Civil War simmers as a cold war into the 1900s.",
+    "category": "leader",
+    "era": "1800s",
+    "visual_tone": "split flags fluttering over uneasy plantations, gaslit Capitol in tense twilight"
+  },
+  {
+    "id": "telegraph-never-spans-atlantic",
+    "title": "What if the transatlantic telegraph never worked?",
+    "premise": "The 1866 cable snaps permanently and global communication stays at ship-speed. Empires fragment from poor coordination and the world stays a patchwork of isolated regions.",
+    "category": "technology",
+    "era": "1800s",
+    "visual_tone": "frayed cable sinking into stormy gray Atlantic, candle-lit telegraph offices going dark"
+  },
+  {
+    "id": "meiji-restoration-fails",
+    "title": "What if the Meiji Restoration failed?",
+    "premise": "The Tokugawa shogunate crushes the 1868 reformers and Japan stays feudal. By 1900 European powers carve it up like China, and there is no rising sun in the Pacific.",
+    "category": "leader",
+    "era": "1800s",
+    "visual_tone": "samurai mansions beside foreign trading posts, Rising Sun flags torn down"
+  },
+  {
+    "id": "suez-canal-never-built",
+    "title": "What if the Suez Canal was never built?",
+    "premise": "Egypt's khedive cancels Lesseps' project in 1859 and ships still round Africa. The British Empire weakens dramatically and Asian trade routes shift through a resurgent Ottoman Persia.",
+    "category": "technology",
+    "era": "1800s",
+    "visual_tone": "empty desert dunes where canals should be, steamships forever circling Cape Horn"
+  },
+  {
+    "id": "germany-never-unifies",
+    "title": "What if Germany never unified under Bismarck?",
+    "premise": "Prussia loses the 1866 war to Austria and the German states stay fragmented. No Kaiser, no WWI in 1914, and Central Europe remains a patchwork of duchies into the 20th century.",
+    "category": "empire",
+    "era": "1800s",
+    "visual_tone": "a hundred tiny flags fluttering over baroque palaces, no eagle in sight"
+  },
+  {
+    "id": "electric-cars-win-1900",
+    "title": "What if electric cars beat gasoline in 1900?",
+    "premise": "Edison's nickel-iron battery succeeds and electric autos dominate by 1905. The oil industry never explodes, the Middle East stays poor and quiet, and the climate crisis never arrives.",
+    "category": "technology",
+    "era": "1900s",
+    "visual_tone": "silent electric coaches gliding past Edwardian gas lamps, no smog over Manhattan"
+  },
+  {
+    "id": "theodore-roosevelt-third-term",
+    "title": "What if Teddy Roosevelt won in 1912?",
+    "premise": "Roosevelt's Bull Moose campaign succeeds and he steers the US through WWI five years earlier. Progressive reforms reshape America and the Great Depression never happens.",
+    "category": "leader",
+    "era": "1900s",
+    "visual_tone": "a charging moose mascot, mustachioed Rough Riders in sepia campaign posters"
+  },
+  {
+    "id": "ottoman-armenia-survives",
+    "title": "What if the Armenian Genocide never happened?",
+    "premise": "Reformist Young Turks block the 1915 deportations and Armenians become loyal Ottoman citizens. A multi-ethnic Ottoman successor state survives WWI and dominates the modern Middle East.",
+    "category": "empire",
+    "era": "1900s",
+    "visual_tone": "Anatolian churches and mosques side by side beneath crescent-and-cross flags"
+  },
+  {
+    "id": "prohibition-never-repealed",
+    "title": "What if Prohibition was never repealed?",
+    "premise": "FDR keeps the Eighteenth Amendment in 1933 to court religious voters. Organized crime becomes a permanent shadow government and the Mafia dynasties run America by 1970.",
+    "category": "leader",
+    "era": "1900s",
+    "visual_tone": "smoke-filled speakeasies stretching into neon 1970s with tommy guns and disco"
+  },
+  {
+    "id": "einstein-stays-in-germany",
+    "title": "What if Einstein never fled the Nazis?",
+    "premise": "Einstein is captured in 1933 and forced to work on a Nazi atomic program. Berlin builds the first atomic bomb in 1944 and the war ends very differently.",
+    "category": "discovery",
+    "era": "1900s",
+    "visual_tone": "swastika-banner labs glowing with uranium light under Berlin's blackout sky"
+  },
+  {
+    "id": "dunkirk-fails",
+    "title": "What if Dunkirk failed in 1940?",
+    "premise": "German panzers catch the BEF on the beaches and 300,000 British troops are captured. Britain sues for peace by July, and Hitler turns east with no western front.",
+    "category": "war",
+    "era": "1900s",
+    "visual_tone": "abandoned helmets on smoking beaches, Union Jacks torn under Stuka silhouettes"
+  },
+  {
+    "id": "d-day-fails",
+    "title": "What if D-Day was a catastrophic failure?",
+    "premise": "Bad weather and German intelligence shred the Normandy landings in June 1944. The Soviets liberate all of Europe alone and the Iron Curtain falls on the Atlantic coast.",
+    "category": "war",
+    "era": "1900s",
+    "visual_tone": "red flags flying over the Eiffel Tower, Cyrillic signs on Parisian cafes"
+  },
+  {
+    "id": "gandhi-assassinated-1920",
+    "title": "What if Gandhi was killed in 1920?",
+    "premise": "A young assassin succeeds in Bombay decades before independence. India's nonviolent movement collapses into armed revolt and a violent partition splits the subcontinent into seven nations.",
+    "category": "leader",
+    "era": "1900s",
+    "visual_tone": "khadi cloth stained red beside burning colonial offices in monsoon rain"
+  },
+  {
+    "id": "israel-never-founded",
+    "title": "What if Israel was never founded in 1948?",
+    "premise": "The UN partition vote fails and Jewish refugees scatter globally instead. The Middle East develops without Arab-Israeli wars and the world's largest Jewish state forms in Argentina.",
+    "category": "leader",
+    "era": "1900s",
+    "visual_tone": "pampas synagogues under Andean skies, Hebrew signs in Buenos Aires cafes"
+  },
+  {
+    "id": "mao-loses-civil-war",
+    "title": "What if Mao lost the Chinese Civil War?",
+    "premise": "Chiang Kai-shek's nationalists hold the mainland in 1949 with US backing. There's no Cultural Revolution, no Great Leap Famine, and China becomes a capitalist superpower by 1970.",
+    "category": "war",
+    "era": "1900s",
+    "visual_tone": "neon Shanghai skylines rising in the 1960s, nationalist sun flags everywhere"
+  },
+  {
+    "id": "cuban-missile-crisis-explodes",
+    "title": "What if the Cuban Missile Crisis went hot?",
+    "premise": "A Soviet sub captain fires a nuclear torpedo in October 1962. Florida and Cuba vanish in mushroom clouds and the Cold War becomes a permanent radioactive standoff.",
+    "category": "war",
+    "era": "1900s",
+    "visual_tone": "black-and-white duck-and-cover footage bleeding into glowing fallout horizons"
+  },
+  {
+    "id": "beatles-never-form",
+    "title": "What if the Beatles never formed?",
+    "premise": "John Lennon dies in a 1958 motorbike crash before meeting Paul McCartney. The British Invasion never happens and 1960s counterculture takes an entirely different shape.",
+    "category": "leader",
+    "era": "1900s",
+    "visual_tone": "empty Liverpool dockside cafes, an unplayed guitar leaning in gray drizzle"
+  },
+  {
+    "id": "three-mile-island-melts",
+    "title": "What if Three Mile Island fully melted down in 1979?",
+    "premise": "The containment fails and Pennsylvania becomes America's Chernobyl. Nuclear power is banned nationwide and the US doubles down on coal for the next forty years.",
+    "category": "disaster",
+    "era": "1900s",
+    "visual_tone": "abandoned suburbs in autumn fog, cooling towers crumbling against orange sky"
+  },
+  {
+    "id": "reagan-shot-dead-1981",
+    "title": "What if Reagan died in the 1981 assassination attempt?",
+    "premise": "Hinckley's bullet finds its mark and George H.W. Bush takes over. Without Reagan's rhetoric, the Cold War drags on into the 2000s and the USSR limps but survives.",
+    "category": "leader",
+    "era": "1980s",
+    "visual_tone": "flag-draped coffin on Capitol steps, Soviet flags still flying in 2001"
+  },
+  {
+    "id": "aids-cured-1985",
+    "title": "What if AIDS was cured in 1985?",
+    "premise": "An obscure French lab cracks a retroviral inhibitor in early 1985. Millions of lives are saved, the gay rights movement accelerates a decade, and Africa's demographic future transforms.",
+    "category": "plague",
+    "era": "1980s",
+    "visual_tone": "neon-lit 80s clinics, hopeful protest banners under disco-ball sunsets"
+  },
+  {
+    "id": "tiananmen-protestors-win",
+    "title": "What if the Tiananmen protesters won in 1989?",
+    "premise": "The army refuses to fire and the Communist Party falls. A democratic Chinese republic emerges and the 21st century has no Beijing superpower, only a fractured federation.",
+    "category": "leader",
+    "era": "1980s",
+    "visual_tone": "red banners replaced by white ones in dawn-lit Beijing squares"
+  },
+  {
+    "id": "steve-jobs-fired-permanently",
+    "title": "What if Steve Jobs never returned to Apple?",
+    "premise": "Apple goes bankrupt in 1997 without his comeback. No iPhone, no iPad, and the smartphone era is shaped entirely by Nokia and BlackBerry into the 2020s.",
+    "category": "technology",
+    "era": "modern",
+    "visual_tone": "empty Cupertino campus, dusty rainbow logos, flip phones in 2020 hands"
+  },
+  {
+    "id": "deepwater-horizon-prevented",
+    "title": "What if Deepwater Horizon never exploded?",
+    "premise": "A last-minute safety check prevents the 2010 blowout. Offshore drilling expands aggressively and the renewable energy transition is delayed by fifteen critical years.",
+    "category": "disaster",
+    "era": "modern",
+    "visual_tone": "rigs proliferating across moonlit Gulf waters, oil-slick rainbows everywhere"
+  },
+  {
+    "id": "mars-colony-2010",
+    "title": "What if NASA built a Mars colony in 2010?",
+    "premise": "A 1989 Bush-era moonshot succeeds and Americans land on Mars in 2001. By 2010 a thousand colonists farm Martian greenhouses while Earth watches via grainy livestream.",
+    "category": "technology",
+    "era": "modern",
+    "visual_tone": "red-dust domes glowing under twin moons, retro-future astronaut suits"
+  },
+  {
+    "id": "crispr-discovered-1995",
+    "title": "What if CRISPR was discovered in 1995?",
+    "premise": "Gene editing arrives twenty years early during the dot-com boom. Designer babies are common by 2010, genetic inequality reshapes society, and most hereditary diseases vanish.",
+    "category": "discovery",
+    "era": "modern",
+    "visual_tone": "90s biotech labs glowing teal, DNA helices spinning across CRT monitors"
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "broll_generator": {
+    "default": "veo3.1-lite",
+    "model_id": "fal-ai/veo3.1/lite",
+    "veo_clip_duration_options_seconds": [4, 6, 8],
+    "veo_clip_duration_note": "Veo Lite hard minimum is 4s. We always generate 4s clips and Remotion trims each Sequence down to (audio_duration + 0.05s buffer), capped at MAX_SCENE_SECONDS.",
+    "aspect_ratio": "9:16",
+    "resolution": "720p",
+    "generate_audio_in_clips": false
+  },
+  "narrator": {
+    "voice_id": "03fcf8ecb0a94b6b94e9007edb7c35f8",
+    "name": "Reassuring Rupert",
+    "engine": "starfish",
+    "endpoint": "https://api.heygen.com/v3/voices/speech",
+    "default_speed": 1.3,
+    "speed_rationale": "User locked 1.3x 2026-05-14 for punchier shorts pacing"
+  },
+  "video_structure": {
+    "beats_per_video": 10,
+    "max_scene_seconds": 2.0,
+    "scene_tail_buffer_seconds": 0.05,
+    "scene_duration_strategy": "audio_driven",
+    "scene_duration_note": "Each scene runs only as long as its narration audio (plus 50ms buffer). No silent tails ever. Total video varies with topic but typically 14-18 seconds.",
+    "veo_clip_seconds_per_beat": 4,
+    "words_per_beat": "3-5 (prefer 4)",
+    "chars_per_beat": "25 max",
+    "no_commas": true,
+    "rationale": "User 2026-05-14: max 2s per scene, zero silent gaps, telegram pacing. Audio-driven scene cuts."
+  },
+  "fal_concurrency_limit": 1,
+  "fal_concurrency_note": "fal.ai blocks parallel jobs from same account with 403. Always run B-roll generation sequentially."
+}

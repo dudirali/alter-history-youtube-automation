@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "start": 0,
+    "end": 8,
+    "duration_seconds": 8,
+    "generator": "veo3",
+    "narration_segment": "On April 14th, 1912, one tiny decision changed the course of history forever.",
+    "prompt": "Cinematic close-up of a 1912 ship lookout in heavy wool coat, peering through brass binoculars into foggy Atlantic night, dramatic moonlight illuminating his weathered face, his breath visible in cold air, his eyes suddenly widening with shock, slow push-in dolly shot, vintage film grain, anamorphic lens flare, vertical 9:16 framing"
+  },
+  {
+    "id": 2,
+    "start": 8,
+    "end": 16,
+    "duration_seconds": 8,
+    "generator": "veo3",
+    "narration_segment": "The lookout spotted the iceberg thirty seconds earlier. The wheel turned.",
+    "prompt": "Wide cinematic shot of a massive towering iceberg emerging from thick ocean fog in moonlight, then cut to close-up of a brass ship's wheel being spun violently by gloved hands, sparks of urgency, dramatic chiaroscuro lighting, film grain, 1912 period aesthetic, vertical 9:16"
+  },
+  {
+    "id": 3,
+    "start": 16,
+    "end": 21,
+    "duration_seconds": 5,
+    "generator": "kling-master",
+    "narration_segment": "The Titanic missed it by inches. She arrived in New York to a hero's welcome.",
+    "prompt": "Majestic wide cinematic shot of the RMS Titanic ocean liner glamorously docking at New York harbor in 1912, golden hour sunlight, massive crowds cheering on the pier waving hats, confetti and steam, sepia-toned vintage atmosphere, period accurate, vertical 9:16 framing"
+  },
+  {
+    "id": 4,
+    "start": 21,
+    "end": 26,
+    "duration_seconds": 5,
+    "generator": "kling-master",
+    "narration_segment": "The world fell in love with ocean liners. Air travel? Delayed by decades.",
+    "prompt": "Montage of grand 1920s ocean liners crossing vast oceans in sunset, art deco passengers in tuxedos and gowns on deck, then quick cut to an early bi-plane sitting abandoned in a dusty hangar, cobwebs forming, contrast between sea glamour and forgotten aviation, cinematic, vertical 9:16"
+  },
+  {
+    "id": 5,
+    "start": 26,
+    "end": 37,
+    "duration_seconds": 11,
+    "generator": "veo3",
+    "narration_segment": "The Roaring Twenties roared at sea, not in the sky. Every history book... rewritten.",
+    "prompt": "Cinematic art deco 1920s jazz age party on the deck of a massive luxury ocean liner at night, neon lights, champagne flutes, dancers in flapper dresses, golden glow, then slowly tracking onto an open history book, pages turning rapidly on their own, the text reshaping and changing before our eyes, mysterious, dramatic, vertical 9:16",
+    "note": "Source clip is 8s; sequence holds last frame until 37s to cover full narration"
+  }
+]

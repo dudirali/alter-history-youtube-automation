@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.zarmon.alt-history-shorts</string>
+
+  <!-- Run this command -->
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/bash</string>
+    <string>-c</string>
+    <string>cd /Users/zarmon/Desktop/alt-history-shorts &amp;&amp; /usr/local/bin/npm run daily &gt;&gt; logs/$(date +%Y-%m-%d).log 2&gt;&amp;1</string>
+  </array>
+
+  <!-- Schedule: every day at 09:00 -->
+  <key>StartCalendarInterval</key>
+  <dict>
+    <key>Hour</key>
+    <integer>9</integer>
+    <key>Minute</key>
+    <integer>0</integer>
+  </dict>
+
+  <!-- If Mac was asleep at 09:00, run on wake -->
+  <key>RunAtLoad</key>
+  <false/>
+
+  <!-- Working dir -->
+  <key>WorkingDirectory</key>
+  <string>/Users/zarmon/Desktop/alt-history-shorts</string>
+
+  <!-- Stdout/Stderr capture (also captured via the bash redirect above) -->
+  <key>StandardOutPath</key>
+  <string>/Users/zarmon/Desktop/alt-history-shorts/logs/launchd-stdout.log</string>
+  <key>StandardErrorPath</key>
+  <string>/Users/zarmon/Desktop/alt-history-shorts/logs/launchd-stderr.log</string>
+
+  <!-- Ensure PATH includes brew/node locations -->
+  <key>EnvironmentVariables</key>
+  <dict>
+    <key>PATH</key>
+    <string>/usr/local/bin:/opt/homebrew/bin:/usr/bin:/bin</string>
+  </dict>
+</dict>
+</plist>

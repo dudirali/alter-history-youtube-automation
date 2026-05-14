@@ -1,0 +1,46 @@
+{
+  "name": "alt-history-shorts",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test:anthropic": "tsx smoke-tests/anthropic.ts",
+    "test:heygen": "tsx smoke-tests/heygen.ts",
+    "test:fal": "tsx smoke-tests/fal-veo.ts",
+    "test:apis": "tsx smoke-tests/run-all.ts",
+    "narrate": "tsx pipeline/narrate.ts",
+    "build:mvp": "tsx pipeline/build-mvp.ts",
+    "build:beats": "tsx pipeline/build-from-beats.ts",
+    "yt:oauth": "tsx pipeline/youtube-oauth.ts",
+    "yt:upload": "tsx pipeline/youtube-upload.ts",
+    "daily": "tsx pipeline/daily-run.ts",
+    "pick-topic": "tsx pipeline/pick-topic.ts",
+    "gen:script": "tsx pipeline/generate-script.ts",
+    "gen:metadata": "tsx pipeline/generate-metadata.ts",
+    "gen:topics": "tsx pipeline/generate-topic-bank.ts",
+    "broll": "tsx pipeline/generate-broll.ts",
+    "broll:test": "tsx pipeline/generate-broll.ts config/scenes-titanic.json output/titanic-mvp/broll 1",
+    "remotion:studio": "remotion studio remotion/src/index.ts",
+    "remotion:render": "remotion render remotion/src/index.ts Short output/titanic-mvp/final.mp4 --props=output/titanic-mvp/render-props.json"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.40.0",
+    "@fal-ai/client": "^1.6.0",
+    "@remotion/bundler": "^4.0.300",
+    "@remotion/cli": "^4.0.300",
+    "@remotion/google-fonts": "^4.0.460",
+    "@remotion/renderer": "^4.0.300",
+    "dotenv": "^16.4.5",
+    "googleapis": "^171.4.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "remotion": "^4.0.300"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0"
+  }
+}

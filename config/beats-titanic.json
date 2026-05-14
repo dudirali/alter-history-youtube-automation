@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Hook",
+    "text": "What if the Titanic never sank? One decision rewrote all history.",
+    "duration_seconds": 6,
+    "prompt": "Cinematic slow reveal of the RMS Titanic ocean liner emerging mysteriously from heavy ocean fog at night, dramatic blue moonlight illuminating its massive silhouette, atmospheric and ominous, the bow slicing through dark water, vertical 9:16 framing, film grain, anamorphic lens"
+  },
+  {
+    "id": 2,
+    "name": "Action - disaster avoided",
+    "text": "April 1912. The lookout sees the iceberg thirty seconds early. The Titanic survives.",
+    "duration_seconds": 8,
+    "prompt": "Cinematic 1912 sequence: a ship lookout in heavy wool coat peers through brass binoculars, suddenly spots a massive towering iceberg through dense fog, then a close-up of brass ship wheel being spun violently by gloved hands, then a wide dramatic shot of the RMS Titanic narrowly avoiding the iceberg by mere inches, blue moonlight, chiaroscuro, vintage film grain, vertical 9:16"
+  },
+  {
+    "id": 3,
+    "name": "NYC arrival",
+    "text": "She arrives in New York. A hero's welcome. The legend is born.",
+    "duration_seconds": 6,
+    "prompt": "Majestic wide cinematic shot of the RMS Titanic ocean liner glamorously docking at New York harbor in 1912, golden hour sunlight, massive crowds cheering on the pier waving hats and handkerchiefs, confetti falling, steam rising from the funnels, sepia-toned vintage atmosphere, period accurate, vertical 9:16"
+  },
+  {
+    "id": 4,
+    "name": "Ocean liner era",
+    "text": "The world falls for ocean liners. The skies stay empty. Air travel, delayed by half a century.",
+    "duration_seconds": 8,
+    "prompt": "Cinematic montage of grand 1920s ocean liners crossing vast oceans in golden sunset, elegant art deco passengers in tuxedos and evening gowns laughing on deck, transitioning to a stark contrast cut of a forgotten early biplane sitting abandoned in a dusty hangar, cobwebs and broken windows, melancholic atmosphere, vertical 9:16"
+  },
+  {
+    "id": 5,
+    "name": "Reveal - history rewritten",
+    "text": "The Roaring Twenties roared at sea, not in the sky. Every history book, rewritten.",
+    "duration_seconds": 8,
+    "prompt": "Cinematic art deco 1920s jazz age party on the deck of a massive luxury ocean liner at night, neon lights and golden chandeliers, glamorous flapper dancers in beaded dresses, champagne flutes raised in toast, then slowly tracking down onto an open vintage history book where pages turn rapidly on their own and the text reshapes and changes before our eyes, mysterious supernatural quality, dramatic, vertical 9:16"
+  }
+]

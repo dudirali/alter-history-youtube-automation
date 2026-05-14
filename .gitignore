@@ -1,0 +1,10 @@
+.env
+.env.local
+node_modules/
+output/
+logs/
+public/
+*.log
+.DS_Store
+# Generated build artifacts (Remotion uses public/ as a staging dir; we copy assets there each run)
+

@@ -1,0 +1,11 @@
+{
+  "narrator_primary": {
+    "voice_id": "03fcf8ecb0a94b6b94e9007edb7c35f8",
+    "name": "Reassuring Rupert",
+    "description": "Chosen narrator for the alt-history channel — English male, starfish engine (supports word-level timestamps)",
+    "language": "en",
+    "locale": "en-US",
+    "engine": "starfish",
+    "endpoint": "https://api.heygen.com/v3/voices/speech"
+  }
+}
