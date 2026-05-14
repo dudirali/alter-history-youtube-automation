@@ -58,23 +58,52 @@ export async function narrate(
   const speed = options.speed ?? 1.0;
   console.log(`[narrate] voice="${v.name}", chars=${text.length}, speed=${speed}`);
 
-  const res = await fetch(endpoint, {
-    method: "POST",
-    headers: {
-      "x-api-key": key,
-      "Content-Type": "application/json",
-      accept: "application/json",
-    },
-    body: JSON.stringify({
-      text,
-      voice_id: v.voice_id,
-      input_type: "text",
-      speed,
-      locale: v.locale ?? "en-US",
-    }),
-  });
-
-  const body = await res.text();
+  // Retry-on-network-error: HeyGen sometimes stalls under Railway's outbound network.
+  // We try up to 3 times with exponential backoff and an explicit 90s AbortSignal per call.
+  const MAX_ATTEMPTS = 3;
+  let res: Response | null = null;
+  let body = "";
+  for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
+    try {
+      res = await fetch(endpoint, {
+        method: "POST",
+        headers: {
+          "x-api-key": key,
+          "Content-Type": "application/json",
+          accept: "application/json",
+        },
+        body: JSON.stringify({
+          text,
+          voice_id: v.voice_id,
+          input_type: "text",
+          speed,
+          locale: v.locale ?? "en-US",
+        }),
+        // Hard 90s ceiling; HeyGen TTS usually returns in 2-15s
+        signal: AbortSignal.timeout(90_000),
+      });
+      body = await res.text();
+      break; // success — leave retry loop
+    } catch (e) {
+      const err = e as Error & { cause?: { code?: string }; code?: string };
+      const code = err.cause?.code ?? err.code ?? err.name;
+      const transient =
+        code === "UND_ERR_HEADERS_TIMEOUT" ||
+        code === "UND_ERR_BODY_TIMEOUT" ||
+        code === "UND_ERR_SOCKET" ||
+        code === "ECONNRESET" ||
+        code === "ETIMEDOUT" ||
+        code === "AbortError" ||
+        code === "TimeoutError";
+      if (!transient || attempt === MAX_ATTEMPTS) throw e;
+      const delay = Math.pow(2, attempt - 1) * 1500; // 1.5s, 3s, 6s
+      console.warn(
+        `[narrate] ⚠️  attempt ${attempt}/${MAX_ATTEMPTS} failed (${code}). Retrying in ${delay}ms...`
+      );
+      await new Promise((r) => setTimeout(r, delay));
+    }
+  }
+  if (!res) throw new Error("HeyGen TTS exhausted all retries (no response)");
   if (!res.ok) throw new Error(`HeyGen TTS failed: HTTP ${res.status} — ${body.slice(0, 500)}`);
   const tts = JSON.parse(body) as TTSResponse;
   const data = tts.data;
