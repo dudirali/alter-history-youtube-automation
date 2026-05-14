@@ -17,9 +17,13 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 
 WORKDIR /app
 
-# Install deps first (better Docker layer caching)
-COPY package*.json ./
-RUN npm ci --omit=optional
+# Install deps first (better Docker layer caching).
+# IMPORTANT: use `npm install` (NOT `npm ci`) and DO NOT omit optionals.
+# Remotion's rspack bundler needs platform-specific native bindings
+# (@rspack/binding-linux-x64-gnu) that npm ci skips when the lockfile
+# was generated on a different OS (Mac ⟶ Linux container).
+COPY package.json ./
+RUN npm install --include=optional --no-audit --no-fund
 
 # Copy the rest of the project
 COPY . .
