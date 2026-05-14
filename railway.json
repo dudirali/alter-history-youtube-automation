@@ -7,6 +7,6 @@
   "deploy": {
     "startCommand": "npm run daily",
     "restartPolicyType": "NEVER",
-    "cronSchedule": "0 9 * * *"
+    "cronSchedule": "0 6 * * *"
   }
 }
